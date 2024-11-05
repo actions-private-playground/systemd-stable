@@ -1,6 +1,6 @@
 ![Systemd](http://brand.systemd.io/assets/page-logo.png)
 
-System and Service Manager \o/
+System and Service Manager \o/ \o/
 
 [![Semaphore CI 2.0 Build Status](https://the-real-systemd.semaphoreci.com/badges/systemd/branches/main.svg?style=shields)](https://the-real-systemd.semaphoreci.com/projects/systemd)<br/>
 [![Coverity Scan Status](https://scan.coverity.com/projects/350/badge.svg)](https://scan.coverity.com/projects/350)<br/>
